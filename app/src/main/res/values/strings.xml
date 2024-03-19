@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">MyMovieCatalog</string>
+    <string name="movie_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="name_catalog">Nama Catalog</string>
+    <string name="description_catalog">description_catalog</string>
+    <string name="contact">contact</string>
+    <string name="grid">grid</string>
+    <string name="list">list</string>
+
+    <string-array name="data_name">
+        <item>Demon Slayer</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Onepiece</item>
+        <item>Chainsaw Man</item>
+        <item>Attack on Titan</item>
+        <item>Bleach</item>
+        <item>Naruto</item>
+        <item>Pokemon</item>
+        <item>Dragon Ball Super</item>
+        <item>One-Punch Man</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            A family is attacked by demons and only two members survive Tanjiro and his sister Nezuko who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.
+            \n\n
+            One day after returning from selling charcoal he discovered that almost his entire family had been killed. The only survivor was his younger sister named Nezuko. who had been transformed into a demon by her attacker.
+            \n\n
+            making her unable to recognize Tanjiro as her own brother. Still bewildered by what had happened to his family, Tanjiro was immediately confronted by a demon slayer named Giyu Tomioka.
+            \n\n
+            Whether he liked it or not Tanjiro had to fight Giyu. Tanjiro won the battle. Giyu, who was defeated, provided information to Tanjiro that it was a demon slayer who had killed his family. From that moment on, Tanjiro life goal became to find the killer of his family members and protect Nezuko.
+        </item>
+        <item>
+            Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna,
+            \n\n
+            taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Jujutsu Kaisen season two adapts two stories from the manga namely the Satoru Gojo Past and the Shibuya Incident.
+            \n\n
+             The Satoru Gojo Past arc is the first part of this series which focuses on Satoru during his time as a Jujutsu High School student. Together with his classmate, Suguru Geto, Satoru is tasked with protecting Riko Amanai, who is a Cursed Star Plasma Vessel.
+            \n\n
+             However, the mission is far from easy. Satoru and Suguru face various obstacles. Along the way, Satoru encounters Toji Fushiguro, a formidable opponent.
+        </item>
+        <item>
+            Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous One Piece behind. Whoever claims the One Piece will be named the new King of the Pirates.
+            \n\n
+            Luffys inspiration to become a pirate and the mysterious power he obtained after consuming a special fruit that transformed his body into rubber, then appeared in Odas next work. In August 1997 Oda drew heavily from Romance Dawn and began incorporating it into the weekly series titled One Piece
+            \n\n
+            This series was first published in Weekly Shonen Jump a weekly magazine owned by Shueisha. It quickly captured the readers attention and gained popularity right from its early chapters making it one of the flagship series in the magazine.
+            \n\n
+            Initially, Oda planned for the series to run for five years from 1997 to 2002 but it turned out to run longer than scheduled and even he couldn predict when the story would conclude. However, Oda stated that Chapter 597 marked the end of the first part of One Piece and that he had planned the conclusion of the second part. While he  know exactly how long it will take Oda intends to finish One Piece according to the storyline he envisioned from the beginning.
+
+        </item>
+        <item>
+            Denji has a simple dream—to live a happy and peaceful life, spending time with a girl he likes. This is a far cry from reality, however, as Denji is forced by the yakuza into killing devils in order to pay off his crushing debts. Using his pet devil Pochita as a weapon, he is ready to do anything for a bit of cash.
+            \n\n
+            Aki Hayakawa and Denji The Introduction arc is the first arc in the Chainsaw Man series. This arc introduces the characters who will be the main focus and tells how Denji joins the Public Safety Bureau.
+            \n\n
+            After his father s suicide Denji must repay the debt left by his father to the Yakuza. While selling some of his organs isn t enough, Denji must work as a Devil Hunter with Pochita to repay the debt and survive.
+            \n\n
+            One day, Denji is deceived by the Yakuza boss who has allied with the Zombie Devil. The demon manages to kill Denji, but he is resurrected by Pochita, who replaces his heart.
+            \n\n
+            After the battle with the Zombie Devil is over, the Public Safety Bureau led by Makima arrives. Makima immediately offers two choices: join the bureau or be killed as a demon. Seeing the promising life in the bureau, Denji decides to join. It is there that Denji meets Aki Hayakawa and Power.
+        </item>
+        <item>
+            After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.
+            \n\n
+             tells the story of humanity, which has been brutally hunted for centuries and brought to the brink of extinction by terrifying humanoid creatures known as Titans. This forces humanity to hide and live in fear behind massive, towering concentric walls.
+            \n\n
+            The appearance of Titans is similar to that of ordinary humans, but they are giant in size and have abnormal walking and running styles. What makes Titans truly terrifying is that their desire for human flesh  stem from hunger instead, its a pleasure in killing for the sake of it or an obsession that arises spontaneously upon seeing humans.
+            \n\n
+            The surviving humans, threatened with extinction, undertake various measures to ensure their survival within the defensive barriers, hiding their existence from the Titans. This strategy successfully keeps them safe from direct contact with Titans for a hundred years. However, their efforts and peace come to an end when the Colossal Titan breaches the outermost defensive wall, which was supposed to be impenetrable.
+        </item>
+        <item>
+            High school student Ichigo Kurosaki, who has the ability to see ghosts, gains soul reaper powers from Rukia Kuchiki and sets out to save the world from Hollows.
+            \n\n
+            Thousand-Year Blood War is a continuation of the Bleach series that first aired in 2004. This series follows the adventures of Ichigo Kurosaki and his friends as they return to battle in the Soul Society. One day, a masked individual appears in the midst of the city, followed by the mysterious disappearance of its residents one by one.
+            \n\n
+            Ichigo Kurosaki is the main protagonist and the most powerful character in the Bleach anime Thousand-Year Blood War. Ichigo is renowned for his boundless potential. In addition to being a shinigami, his primary abilities include shikai, bankai, and getsuga tenshou. There are only a few characters who can match the strength of his spiritual energy.
+            \n\n
+            Ichigo is also known for having the most variant zanpakutou compared to all the shinigami and characters. The power of his zanpakuto, Tensa Zangetsu, or his trusted giant sword, continues to increase with each season. The ultimate form of his zanpakuto will be revealed in this final series of Bleach: Thousand-Year Blood War.
+        </item>
+        <item>
+            In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed
+            \n\n
+            many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training. Synopsis of the Anime Naruto Naruto Uzumaki s journey in coping
+            \n\n
+            with a challenging life began when he was very young. It all ties back to the dark history of the village that was attacked by the nine-tailed fox.</item>
+        <item>
+            Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.
+            \n\n
+            Pikachu is one of the most beloved characters of all time in the world of anime. He is one of the main characters in the popular Pokémon anime, which is based on the video game of the same name.
+            \n\n
+            Pikachu is a yellow, mouse-like creature who serves as the main protagonist Ash Ketchum s companion. Pikachu has been a part of the Pokémon anime since its inception, first airing in 1997.
+            \n\n
+            Since then Pikachu has become the mascot of the Pokémon franchise and is widely recognized worldwide. He even starred in his own anime series, Pokémon The Series, which follows Ash and Pikachu on their journey around the world to capture and battle wild Pokémon.
+            </item>
+        <item>
+            With Majin Boo defeated half-a-year prior, peace returns to Earth, where Son Goku (now a radish farmer) and his friends now live peaceful lives. However, a new threat appears in the form of Beerus, the God of Destruction. Considered the most terrifying being in the entire universe,
+            \n\n
+            Beerus is eager to fight the legendary warrior seen in a prophecy foretold decades ago known as the Super Saiyan God.Goku is the most iconic character in the Dragon Ball anime series. In the first season, his story begins with the origin of Goku as a child.
+            \n\n
+            Goku was not born among humans but descended from the sky like a mysterious creature.At that time, the person who took care of Goku was Gohan, who was already old, like a grandfather. Unfortunately, Gohan s fate took a tragic turn as he had to perish because Goku transformed into a giant, rampaging like a colossal gorilla.
+            \n\n
+            Meanwhile, the synopsis of Dragon Ball revolves around the core story of the odd-numbered crystal balls, which are seven in number and scattered across various parts of the world. Goku himself intends to collect these seven Dragon Balls because they are believed to have the power to grant various wishes, no matter how impossible they may seem.
+            \n\n
+            For example, wishes such as obtaining an item, traveling to a certain place, or even resurrecting those who have passed away.
+        </item>
+        <item>
+            Saitama is a hero who only became a hero for fun. After three years of special training, though, he’s become so strong that he’s practically invincible. In fact, he’s too strong — even his mightiest opponents are taken out with a single punch, and it turns out that being devastatingly powerful is actually kind of a bore.
+        \n\n
+            Almost every anime film has a protagonist who becomes the central focus of the story. Now, the nature of the main character in each anime varies, but most are depicted as lively, energetic, cheerful, and straightforward individuals, such as Luffy (One Piece), Naruto (Naruto), Natsu (Fairy Tail), and many others.
+        \n\n
+            Recently, a new anime title has emerged and immediately become a favorite among the public, namely One Punch Man. This action-comedy genre anime has a very unique plot and an unconventional main character that gives it a distinctive flavor and makes it easily memorable to the audience.
+            \n\n
+            OPM is originally a manga created by Yusuke Murata. Due to its success in attracting readers interest, it was eventually adapted into an animated series. OPM aired in anime form on October 5, 2015, with a total of 12 episodes in its first season.
+            \n\n
+        So, what makes this anime interesting, different, and a must-watch One of the answers to this question is the presence of the main character who is highly unconventional and stands out from the majority.
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/demonslayer</item>
+        <item>@drawable/jujutsunokaisen</item>
+        <item>@drawable/onepiece</item>
+        <item>@drawable/chainsawman</item>
+        <item>@drawable/attackontitan</item>
+        <item>@drawable/bleach</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/pokemon</item>
+        <item>@drawable/onepuchman</item>
+        <item>@drawable/blackclover</item>
+
+
+    </integer-array>
+
+
+</resources>

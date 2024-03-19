@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/catalog_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgrn">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        card_view:layout_constraintBottom_toBottomOf="parent"
+        card_view:layout_constraintEnd_toEndOf="parent"
+        card_view:layout_constraintStart_toStartOf="parent"
+        card_view:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/gambar_catalog"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:src="@drawable/pokemon"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:id="@+id/tv_item_catalog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/gambar_catalog"
+                card_view:layout_constraintEnd_toEndOf="parent"
+                card_view:layout_constraintStart_toEndOf="parent"
+                card_view:layout_constraintTop_toTopOf="parent"
+                android:layout_marginTop="16dp"
+                android:padding="10dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:text="@string/name_catalog"/>
+
+            <TextView
+                android:id="@+id/tv_item_description_catalog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="16dp"
+                android:textSize="16dp"
+                android:text="@string/description_catalog"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
